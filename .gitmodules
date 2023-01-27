@@ -1,0 +1,6 @@
+[submodule "huggingface"]
+	path = huggingface
+	url = ./huggingface
+[submodule "panoptinet"]
+	path = panoptinet
+	url = ./panoptinet
